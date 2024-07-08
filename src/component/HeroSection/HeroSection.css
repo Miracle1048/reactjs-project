@@ -1,0 +1,42 @@
+/* HeroSection */
+.HeroSection{
+    /* border: 1px solid; */
+   width: 100%;
+ }
+ .section-2{
+   /* border: 1px solid; */
+   margin: 30px;
+   display: flex;
+   justify-content: space-between; 
+ }
+ .text-1{
+   /* border: 1px solid;  */
+  width: 40%;
+  box-sizing: border-box;
+  font-size: 20px;
+  line-height: 40px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400px;
+  text-align: justify;
+  align-self: center;
+ }
+ .text-1 p{
+  padding-top: 15px;
+ }
+ .text-1 button{
+   margin-top: -20px; 
+  padding: 20px;
+  border-radius: 5px;
+  background-color: #F4B100;
+  border: #F4B100;
+ }
+ 
+ .pic{
+   /* border: 1px solid;  */
+   width: 50%;
+   
+ }
+ .pic img{
+   width: 100%;
+   /* height: 45%; */
+ }

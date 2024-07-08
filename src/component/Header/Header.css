@@ -1,0 +1,60 @@
+.parent{
+  background-color: #38A1FF;
+  border-radius: 5px;
+    display: flex;
+    /* width: 100%; */
+     margin: 20px 30px ; 
+    color: #000000;
+}
+
+.logo{
+   /* border: 1px solid;  */
+  margin: 15px;
+  width: 40%;  
+}
+.logo img{
+    width: 50%;
+}
+.nav{
+  /* border: 1px solid;  */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 34%;
+  
+}
+
+li{
+  list-style: none;
+}
+.nav select{
+  border: none;
+}
+/* .nav button{
+  padding: 15px;
+  border-radius: 30px;
+  color: #eeb570;
+  border: 1px solid #724610;
+
+} */
+.nav-contact{
+  /* border: 1px solid; */
+  display: flex;
+  align-items: center;
+  width: 34%;
+}
+.nav-contact button{
+  margin-left: 50%;
+  width: 35%;
+  box-sizing: border-box;
+  padding: 15px;
+  border-radius: 10px;
+  background-color: #FFFFFF;
+  color: #38A1FF;
+   border: 1px solid #FFFFFF; 
+}
+
+
+
+
+
