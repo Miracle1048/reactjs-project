@@ -37,3 +37,76 @@
  .text h6{
    color: #F6C030;
  }
+
+ .inner-2{
+  margin: 30px;
+  background-color: #38A1FF;
+  /* border: 2px solid;  */
+  border-radius: 20px;
+  margin-top: 10px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content:space-evenly;
+  text-align: justify;
+ }
+
+ .grid-item1{
+  outline: 1px #f90 dashed;
+  background-color: #FCFCFC;
+  padding-top: 30px;
+  height: 400px;
+  margin: 10px 30px;
+  border-radius: 10px; 
+  text-align: justify;
+  text-align: center;
+  
+ }
+  .grid-item1 p{
+    color: #7F7F7F;
+    font-size: 30px;
+  line-height: 40px;
+  font-weight: 400px;
+  font-family: "Open Sans", sans-serif;
+ } 
+
+ .vue{
+  width: 400px;
+  
+ }
+.icon{
+  width: 100px;
+}
+
+ .grid{
+  /* border: 1px solid; */
+  margin: 50px 20px;
+
+ }
+ .grid h6{
+  color: #F6C030;
+  font-size: x-large;
+  margin: 0;
+ }
+ .grid h1{
+   color: #FFFFFF;
+  margin: 0;
+  font-size: 60px;
+ }
+ .grid p{
+  font-family:sans-serif ;
+  color: #FFFFFF;
+  font-size: 20px;
+ }
+ 
+ .annex {
+  margin: 30px;
+ 
+ }
+ .annex img{
+  width:40px;
+ }
+ .annex span{
+  color: #FCFCFC;
+  font-weight: 1000px;
+  
+ }

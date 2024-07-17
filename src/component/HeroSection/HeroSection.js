@@ -3,9 +3,9 @@ import picture from "./Investing-1.png"
 
 function HeroSection() {
  return (
-<div>
-{/* HeroSection */}
+
 <div class="HeroSection">
+   {/* HeroSection */}
    <div class="section-2">
       <div class="text-1">
          <h1>Empower Your Financial Future with FinWise</h1>
@@ -17,7 +17,7 @@ function HeroSection() {
       </div>
       </div>
    </div>
-</div>
+
  );
 }
 export default HeroSection;

@@ -1,15 +1,16 @@
- import Header from "./component/Header/Header"
- import HeroSection from "./component/HeroSection/HeroSection"
- import About from "./component/About/About"
- 
+ import {Routes, Route} from "react-router-dom";
+ import HomePage from "./pages/HomePage";
+ import Blog from "./pages/Blog";
 function App() {
   return(
-    <div>
-      <Header />
-      <HeroSection />
-      <About />
+    <Routes>
+   <Route path="" element={<HomePage />}  />
+
+   <Route path="Blog" element={<Blog />}  />
+    
+
       
-    </div>
+    </Routes>
   ); 
   
 }

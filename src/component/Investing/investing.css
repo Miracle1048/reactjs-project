@@ -1,0 +1,30 @@
+.container{
+    /* border: 1px solid; */
+    margin: 30px;
+    text-align: center;
+    position: relative;
+}
+.invest{
+    /* border: 1px solid; */
+    
+}
+.invest h5{
+    color: #F6C030;
+}
+
+.box1{
+    /* border: 1px solid; */
+    width: 600px;
+    margin-top: 15px;
+    position: relative;
+    left: 25%;
+    
+}
+.box2{
+    margin-top: 30px;
+    /* border: 1px solid; */
+    width: 100%;
+}
+.box2 img{
+    width: 100%;
+}
