@@ -50,7 +50,7 @@
   text-align: justify;
  }
 
- .grid-item1{
+ .Grid-item1{
   outline: 1px #f90 dashed;
   background-color: #FCFCFC;
   padding-top: 30px;
@@ -61,7 +61,7 @@
   text-align: center;
   
  }
-  .grid-item1 p{
+  .Grid-item1 p{
     color: #7F7F7F;
     font-size: 30px;
   line-height: 40px;
@@ -77,22 +77,22 @@
   width: 100px;
 }
 
- .grid{
+ .Grid{
   /* border: 1px solid; */
   margin: 50px 20px;
 
  }
- .grid h6{
+ .Grid h6{
   color: #F6C030;
   font-size: x-large;
   margin: 0;
  }
- .grid h1{
+ .Grid h1{
    color: #FFFFFF;
   margin: 0;
   font-size: 60px;
  }
- .grid p{
+ .Grid p{
   font-family:sans-serif ;
   color: #FFFFFF;
   font-size: 20px;

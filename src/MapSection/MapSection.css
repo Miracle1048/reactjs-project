@@ -1,0 +1,13 @@
+.iframe{
+    /* border: 1px solid; */
+    margin: 50px 30px;
+    border-radius: 20px;
+    height: 701px;
+}
+iframe{
+    width: 99.9%;
+    border: none;
+    border-radius: 50px;
+    height: 701px;
+    
+}

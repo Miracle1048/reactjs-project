@@ -1,0 +1,92 @@
+.contact{
+    border: 1px solid ;
+    display: flex;
+    justify-content: space-between;
+    margin: 70px 30px;
+    height: 603px;
+}
+.contact-1{
+     border: 1px solid; 
+    border-radius: 30px;
+    background-color: #38A1FF;
+    width: 50%;
+    height: 603px;
+}
+.contact-1 h4{
+  color: #F4B100;
+  margin-top: 0;
+}
+.contact-1-1{
+ /* border: 1px solid; */
+ text-align: justify;
+ margin: 50px 30px;
+}
+.contact-1-1 p{
+ color: white;
+}
+.contact-1-1 span{
+    /* border: 1px solid; */
+    color: black;
+    
+}
+.contact-img{
+    /* border: 1px solid; */
+    display: flex;
+    margin: 50px 30px;
+    width: 30%;
+
+}
+.contact-img div{
+    /* border: 1px solid; */
+    width: 100%;
+}
+.contact-img img{
+    width: 100%;
+}
+
+
+.contact-2{
+     border: 1px solid; 
+    width: 45%;
+    height: 603px;  
+}
+
+.contact-2-1{
+   border: 1px solid; 
+}
+.contact-2-1 input{
+    display: block;
+    border: none;
+    width: 99.9%;
+    border-radius: 5px;
+    padding: 15px 0;
+    
+}
+.mail{
+    margin-top: 25px;
+}
+textarea{
+    margin-top: 30px;
+    border: none;
+    width: 99%;
+    border-radius: 5px;
+    height: 170px;
+
+    
+}
+
+form button{
+    background-color: #38A1FF;
+    width:100%;
+    margin-top: 30px;
+    border: none;
+    padding: 15px 0;
+    border-radius: 5px;
+    color: white;
+}
+::placeholder{
+ position: relative;
+ left: 10px;
+ top: 10px;
+ font-size: large;    
+}

@@ -10,7 +10,7 @@ return(
     <div className="grid-1">
       <div className="grid-item-1">
       <img src={img1}></img>
-      <h6>FINANCE and ECONOMICS</h6>
+      <h6>FINANCE AND ECONOMICS</h6>
       <div className="text1">
       <p>Big tech’s dominance is straining the logic of passive investing</p>
       </div>
@@ -42,7 +42,7 @@ return(
       </div>
       <div className="grid-item-1">
       <img src={img5}></img>
-      <h6>FINANCE and ECONOMICS</h6>
+      <h6>FINANCE AND ECONOMICS</h6>
       <div className="text1">
       <p>The story of how Dave took the long road to become a neobank</p>
       </div>

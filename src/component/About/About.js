@@ -22,31 +22,31 @@ function About() {
 
     <div className="section-3">
       <div className="inner-2">
-      <div className="grid">
+      <div className="Grid">
         <h6>ABOUT US</h6>
         <h1>Financial Plan for Long-Term Success</h1>
         <p>We are committed to fostering the financial well-being of the next generation by encouraging them to take the proud and empowering step of micro-investing.</p>
       </div>
-      <div class="grid-item1">
+      <div class="Grid-item1">
         <img className="vue" src={img2}></img>
 
       </div>
-      <div class="grid-item1">
+      <div class="Grid-item1">
       <img className="icon"  src={img3}></img>
       <h2>Money Management</h2>
       <p>With experience in all market conditions, we recognize what processes and solutions.</p>
       </div>
-      <div class="grid-item1">
+      <div class="Grid-item1">
       <img className="icon" src={img7}></img>
       <h2>Financial Planning</h2>
       <p>These plans may include investment strategies, savings plans, etc.</p>
       </div>
-      <div class="grid-item1">
+      <div class="Grid-item1">
       <img className="icon" src={img5}></img>
       <h2>Strategic Partner</h2>
         <p>With experience in all market conditions, we recognize what processes and solutions.</p>
       </div>
-      <div class="grid-item1">
+      <div class="Grid-item1">
       <img className="icon" src={img6}></img>
       <h2>Risk Management</h2>
       <p>With experience in all market conditions, we recognize what processes and solutions.</p>

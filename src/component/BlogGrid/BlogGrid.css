@@ -32,3 +32,6 @@ grid-gap: 20px;
     line-height: 30px;
     font-size: 20px;
 }
+.grid-item-1 h6{
+    color: #F6C030;
+}

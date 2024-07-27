@@ -20,7 +20,7 @@ function Header(){
             <li> <Link to="/Blog">Blog</Link></li>
       </div>      
      <div className="nav-contact">
-      <button>Contact</button>
+       <button><Link to="/Contact">Contact</Link></button>
       </div>   
      
       </div> 
