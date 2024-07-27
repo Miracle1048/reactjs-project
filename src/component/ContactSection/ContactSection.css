@@ -6,7 +6,7 @@
     height: 603px;
 }
 .contact-1{
-     border: 1px solid; 
+     /* border: 1px solid;  */
     border-radius: 30px;
     background-color: #38A1FF;
     width: 50%;
@@ -46,13 +46,13 @@
 
 
 .contact-2{
-     border: 1px solid; 
+     /* border: 1px solid;  */
     width: 45%;
     height: 603px;  
 }
 
 .contact-2-1{
-   border: 1px solid; 
+   /* border: 1px solid;  */
 }
 .contact-2-1 input{
     display: block;
