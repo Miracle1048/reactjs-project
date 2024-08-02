@@ -1,0 +1,43 @@
+.faq{
+    /* border: 1px solid; */
+}
+.faq-1{
+ /* border: 1px solid; */
+ text-align: center;
+}
+.faq-1 p{
+    margin: 0;
+    font-weight: normal;
+    font-style: oblique;
+    font-size: larger;
+    
+    
+    
+}
+.faq-1 h3{
+    font-size: 30px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+}
+
+.faq-2{
+    margin: 20px 100px;
+     border: 1px solid #FFFFFF; 
+    border-radius: 20px;
+    height: 330px;
+    background-color: #FFFFFF;
+
+}
+.faq-2-1{
+    margin: 15px;
+    border-bottom: 1px solid;
+    height: 50px;
+    align-items: center;
+}
+.faq-2-1:last-child{
+    border-bottom: none;
+}
+ .faq-2-1 img{
+    width: 20px;
+    
+    margin: 0px 40px;
+} 

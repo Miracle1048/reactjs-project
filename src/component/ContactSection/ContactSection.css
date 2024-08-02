@@ -50,6 +50,12 @@
     width: 45%;
     height: 603px;  
 }
+.contact-2 h4{
+color: #F4B100;
+}
+.contact-2 h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 
 .contact-2-1{
    /* border: 1px solid;  */

@@ -1,6 +1,6 @@
 import Header from "../component/Header/Header";
 import ContactSection from "../component/ContactSection/ContactSection";
-import MapSection from "../MapSection/MapSection";
+import MapSection from "../component/MapSection/MapSection";
 import Footer from "../component/FOOTER/footer";
  
 

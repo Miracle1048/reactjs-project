@@ -9,18 +9,18 @@ function Header(){
       
      <div className="parent">
      <div className="logo">
-     <Link to="/"><img src={Logo}/></Link>
+     <Link  to="/"><img src={Logo}/></Link>
      </div>
      
      <div className="nav">
         
-            <li><Link to="/Service">Services</Link></li>
-            <li> <Link to="/Pricing">Pricing</Link> </li>
-            <li> <Link to="/About">About</Link>  </li>
-            <li> <Link to="/Blog">Blog</Link></li>
+            <li><Link to="/Service"  style={{ color:'white' ,textDecoration: 'none'}}>Services</Link></li>
+            <li> <Link to="/Pricing"  style={{color:'white' ,    textDecoration: 'none'}}>Pricing</Link> </li>
+            <li> <Link to="/About"  style={{ color:'white' ,  textDecoration: 'none'}}>About</Link>  </li>
+            <li> <Link to="/Blog"  style={{ color:'white' ,  textDecoration: 'none'}}>Blog</Link></li>
       </div>      
      <div className="nav-contact">
-       <button><Link to="/Contact">Contact</Link></button>
+       <button><Link to="/Contact" style={{ color:"#38A1FF" , textDecoration: 'none'}}>Contact</Link></button>
       </div>   
      
       </div> 

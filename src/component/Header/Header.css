@@ -4,7 +4,7 @@
     display: flex;
     /* width: 100%; */
      margin: 20px 30px ; 
-    color: #000000;
+     color: #FFFFFF;
 }
 
 .logo{
@@ -17,6 +17,7 @@
 }
 .nav{
   /* border: 1px solid;  */
+  
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -24,8 +25,9 @@
   
 }
 
-li{
+.nav li{
   list-style: none;
+  color: #FFFFFF;
 }
 .nav select{
   border: none;
@@ -53,6 +55,7 @@ li{
   color: #38A1FF;
    border: 1px solid #FFFFFF; 
 }
+
 
 
 
