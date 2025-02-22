@@ -1,0 +1,126 @@
+.section_Features{
+    /* border: 1px solid; */
+    height: 909px ;
+    padding: 50px 40px;
+}
+.content-Cta{
+    /* border: 1px solid; */
+    height: 412px;
+    padding: 50px 230px;
+
+}
+.header-body{
+    /* border: 1px solid; */
+    height: 312px;
+    width: 760px;
+}
+.feat{
+    /* border: 1px solid; */
+    height: 16px;
+}
+.feat h6{
+    margin: 0;
+    color: #F4B100;
+    text-align: center;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 700px;
+}
+.stat{
+    /* border: 1px solid; */
+    height: 152px;
+    margin-top: 15px;
+}
+.stat h2{
+    margin: 0;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 400px; 
+}
+.amet{
+    /* border: 1px solid; */
+    height: 108px;
+    margin-top: 15px;
+}
+.amet p{
+    margin: 0;
+    text-align: center;
+    font-size: 26px;
+    line-height: 36px;
+    font-weight: 400px;
+    color: #7F7F7F;
+}
+
+.content-features{
+    /* border: 1px solid; */
+    display: flex;
+    justify-content: space-between;
+    height: 327px;
+    margin-top: 40px;
+    position: absolute;
+    width: 93%;
+}
+.ellipse1{
+    /* border: 1px solid; */
+    width: 101px;
+    height: 101px;
+    border-radius: 50%;
+    position: absolute;
+    left: 139px;
+    bottom: 270px;
+    background-color: #38A1FF;
+}
+.ellipse2{
+    /* border: 1px solid; */
+    width: 101px;
+    height: 101px;
+    border-radius: 50%;
+    position: absolute;
+    right: 46%;
+    bottom: 270px;
+    background-color: #38A1FF;  
+}
+.ellipse3{
+    /* border: 1px solid; */
+    width: 101px;
+    height: 101px;
+    border-radius: 50%;
+    position: absolute;
+    right: 12%;
+    bottom: 270px;
+    background-color: #38A1FF;
+}
+.feature-card{
+    /* border: 1px solid; */
+    background-color: #FFFFFF;
+    height: 327px;
+    width: 32%;
+    border-radius: 20px;
+    
+}
+.finance{
+    /* border: 1px solid; */
+    margin-top: 90px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+        
+}
+.finance h4{
+    font-size: 28px;
+    text-align: center;
+    margin: 0px;
+}
+.secure{
+ /* border: 1px solid; */
+ text-align: center;
+ font-size: 24px;
+ font-weight: 400px;
+ line-height: 36px;
+ margin: 0 10px;
+
+
+}
+.secure p{
+    margin: 0;
+}

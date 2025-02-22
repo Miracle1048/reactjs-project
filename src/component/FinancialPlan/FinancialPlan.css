@@ -1,0 +1,61 @@
+.Section-finance{
+    /* border: 1px solid;  */
+    height: 620px;
+    padding: 50px 40px;
+}
+.financial-plan{
+    /* border: 1px solid; */
+    display: flex;
+    height: 605px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 50px;
+}
+.content-news{
+    /* border: 1px solid; */
+    height: 545px;
+    width: 614px;
+    margin-right: 20px;
+}
+.finwise{
+    /* border: 1px solid; */
+    width: 510px;
+    height: 555px;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+.finwise img{
+    width: 510px;
+    height: 100%;
+    border-radius: 50px;
+}
+.finance-p{
+    /* border: 1px solid; */
+    height: 70px;
+    font-size: 45px;
+    line-height: 57px;
+    font-weight: 400px;
+    margin-bottom: 10px;
+
+}
+.finance-p h3{
+    margin: 0;
+}
+
+.trio-text{
+    /* border: 1px solid; */
+    font-size: 16px;
+    line-height: 25px;
+}
+.trio-text p{
+    margin: 0;
+}
+.sub-text{
+    /* border: 1px solid; */
+    font-size: 28px;
+    line-height: 39px;
+    margin: 10px 0;
+}
+.sub-text h4{
+    margin: 0;
+}
